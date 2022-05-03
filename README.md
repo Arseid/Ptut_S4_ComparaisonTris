@@ -1,9 +1,9 @@
-#Informations Générales
-##Équipe ComparaisonTris
+# Informations Générales
+## Équipe ComparaisonTris
 Le projet ComparaisonTris, comme son nom l’indique, a pour but de pouvoir concevoir un ensemble d’animations graphiques permettant de comparer différentes méthodes de tri de données en termes de fonctionnement et de performance.
 C'est-à-dire une comparaison de la rapidité de l'exécution et l'efficacité de son fonctionnement.
 
-#Démarrage
+# Démarrage
 Pour pouvoir naviguer sur notre site web, l’utilisateur doit se connecter au VPN avec ses identifiants unice. Ce dernier pourra alors rentrer ou cliquer sur le lien suivant : http://10.22.27.5/projet_tut/ .
 Arrivé sur le site, il va pouvoir voir un menu de navigation se trouvant sur la gauche. Ce menu lui permettra de circuler sur les pages suivantes :
 •    Accueil
@@ -20,7 +20,7 @@ Après avoir choisi les algorithmes qu'il veut comparer et remplit le formulaire
 Le premier correspond au tableau de résultats montrant les performances de chacun.
 Le deuxième correspond à l'affichage de toutes les itérations de trie faites par les algorithmes.
 
-#Auteurs
+# Auteurs
 Maquette et Visuel:
 - Antoine BONDET
 - Sinclair Balivet
@@ -33,7 +33,7 @@ Recherches et animations:
 - Siham TABBAA
 - Pierre SAVE
 
-#License
+# License
 - License Chart JS: https://www.chartjs.org/docs/2.9.4/notes/license.html
 - License GNU: https://choosealicense.com/licenses/gpl-3.0/ 
 - License JQuery: https://jquery.org/license/ 
